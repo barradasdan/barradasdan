@@ -2,7 +2,7 @@
 
 > Sou Designer e Dev, apaixonado por cores e formas, gosto de explorar a diversidade, inclusão e inovar de forma inusitada. Conto com a gestalt como aliada, obtendo uma abordagem multidisciplinar, respeitando e observando os movimentos artísticos. O Desenvolvimento Web e o Design para mim são atividades colaborativas, as quais estão sempre se aprimorando, inclusive pelo cliente. Portanto a organização, empatia e contemporaneidade são virtudes essenciais para um profissional que atua onde a arte e a tecnologia se encontram.
 
-🔭 Meu mais recente projeto é o meu portfólio, feito como parte das entregas do curso de Desenvolvimento Full Stack da escola Labenu. Segue o link: https://neighborly-committee.surge.sh/
+🔭 Meu mais recente projeto é o meu portfólio. Segue o link: https://neighborly-committee.surge.sh/
 
 💬 Bora inovar juntos? Entre em contato comigo via e-mail: contato.danielbarradas@gmail.com
 
