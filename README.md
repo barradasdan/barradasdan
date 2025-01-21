@@ -1,4 +1,4 @@
-## Hello, my name is <strong>{Daniel Barradas}!</strong>
+## Hello, my name is <strong>Daniel Barradas!</strong>
 
 >I am currently delving into a diverse array of cutting-edge technologies in software development, with a strong focus on UX Design, Machine Learning, SaaS, and Game Development. My technical expertise is complemented by the practical application of agile methodologies such as Kanban, Scrum, Sprint, GROW, and SMART—skills honed during my experience as a supervisor, where I successfully elevated team performance and quality.
 
