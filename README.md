@@ -1,14 +1,15 @@
-## Olá, meu nome é <strong>{Daniel Barradas}!</strong>
+## Hello, my name is <strong>{Daniel Barradas}!</strong>
 
-> Sou Designer e estudante de Engenharia da Computação, apaixonado por cores e formas, gosto de explorar a diversidade, inclusão e inovar de forma inusitada. Conto com a gestalt como aliada, obtendo uma abordagem multidisciplinar, respeitando e observando os movimentos artísticos. O Desenvolvimento Web e o Design para mim são atividades colaborativas, as quais estão sempre se aprimorando, inclusive pelo cliente. Portanto a organização, empatia e contemporaneidade são virtudes essenciais para um profissional que atua onde a arte e a tecnologia se encontram.
+>I am currently delving into a diverse array of cutting-edge technologies in software development, with a strong focus on UX Design, Machine Learning, SaaS, and Game Development. My technical expertise is complemented by the practical application of agile methodologies such as Kanban, Scrum, Sprint, GROW, and SMART—skills honed during my experience as a supervisor, where I successfully elevated team performance and quality.
 
-🔭 Meu mais recente projeto é o meu portfólio. Segue o link: https://neighborly-committee.surge.sh/
+Above all, I am driven by a commitment to people, a dedication to strong ethical standards, and a steadfast respect for deadlines. I thrive in collaborative environments and am passionate about delivering impactful solutions through teamwork and innovation.
 
-💬 Bora inovar juntos? Entre em contato comigo via e-mail: contato.danielbarradas@gmail.com
+
+💬 Let's change the world?
 
 ----
 
-## 🚀 Minhas Skills
+## 🚀 My Skills
 
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="CSS"/></code>
@@ -21,5 +22,5 @@
 
 ---
 
-## ⭐ Informações sobre minha conta GitHub
+## ⭐ Informations about my GitHub account
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=barradasdan&show_icons=true)
